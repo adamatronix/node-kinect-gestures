@@ -1,0 +1,7 @@
+{
+    "name": "node-kinect-gestures",
+    "version": "1.0",
+    "description": "show skeletons in browser",
+    "author": "Adam Gee",
+    "dependencies": {}
+}
